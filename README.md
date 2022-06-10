@@ -3,7 +3,6 @@
   <a href="https://pouyabakhshi.vercel.app/" target="_blank">Pouya Bakhshi</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
 </div>
 
 <br/>
@@ -27,17 +26,6 @@
 </h3>
 
 Welcome to my portfolio website, <a href="https://pouyabakhshi.vercel.app/" target="_blank">michaelbeebower.com</a>, where I can showcase my software development projects, tell you more about me, and what I am looking for. Last but not least, this is where you can take a look at my resume, my LinkedIn and other profiles, and ways to contact me.<br/>
-
-## Built With
-
-- React.js
-- Node.js
-- Express.js
-- CSS
-- Vercel
-
-You can fork this repo to modify and make changes of your own. <br/>
-To create this Portfolio repo, I forked the repo from [Soumyajit4419](https://github.com/soumyajit4419/Portfolio).
 
 ## Features
 
