@@ -112,7 +112,6 @@ html {
 .navbar-toggler span:nth-child(1),
 .navbar-toggler span:nth-child(3) {
   transition: transform 0.35s ease-in-out !important;
-  transition: transform 0.35s ease-in-out !important;
 }
 
 .navbar-toggler:not(.collapsed) span:nth-child(1) {
@@ -152,8 +151,8 @@ html {
 }
 
 .logo {
-  margin-top: 10px;;
-  margin-left: 25px;;
+  margin-top: 10px;
+  margin-left: 25px;
   height: 2.2em !important;
   width: 6em !important;
 }
